@@ -1,0 +1,1035 @@
+{
+  "processor": [
+    {
+      "id": 1,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-3200g/ryzen-3-3200g-3-500x500.jpg",
+      "product_name": "AMD Ryzen 3 3200G Processor with Radeon RX Vega 8 Graphics",
+      "category": "cpu/processor",
+      "quantity": 30,
+      "price": 6702,
+      "description": "The AMD Ryzen 3 3200G Processor is built-in intelligence featuring 4 processor cores, 4 threads, and an astonishingly efficient 65W TDP. In this processor, It stands with 3.6GHz Base Clock, 4.0GHz Max Boost Clock, 2MB L2 Cache, 4MB L3 Cache with AM4 Package and TSMC 12nm FinFET CMOS. This processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. The Ryzen 3 3200G provides DDR4 2933MHz memory with 2 memory channels. This processor also has 03 years warranty (No Warranty for Fan or Cooler).",
+      "key_Features": [
+        "Ryzen 3 3200G",
+        "3.6 GHz up to 4.0 GHz",
+        "Cores-4 & Threads-4",
+        "Up to 2933MHz",
+        "Radeon Vega 8 Graphics",
+        "Maximum Speed: 2933MHz",
+        "Type: DDR4",
+        "Base Frequency: 1250 MHz"
+      ],
+      "rating": 5,
+      "average_rating": 1,
+      "reviews": [
+        "This is a very good Processor I really liked It. Recommended",
+        "irst of all ryzen 3 3200g is a best apu out there for gaming and everything but this is not a budget apu at all,if you add more ram and ssd to your setup then the price won t be budget friendly.i own it and i love it so so much..and thanks to STAR TECH for my setup.",
+        "es this a good apu for low price Best game",
+        "Waiting for arrival! This is a very budget friendly processor for gamers!"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/amd-ryzen-5-5500/amd-ryzen-5-5500-01-500x500.jpg",
+      "product_name": "AMD Ryzen 5 5500 Processor",
+      "category": "cpu/processor",
+      "quantity": 25,
+      "price": 7884,
+      "description": "AMD Ryzen 5 5500 Processor is 6 processor cores, 12 threads, and an astonishingly efficient 45-65W TDP. This processor, It stands with 3.9GHz Base Clock, 4.4GHz Max Boost Clock, 3MB L2 Cache, 16MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. The AMD Ryzen 5 5600G Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology. A fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance.  MD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also has AMD  Core Architecture with the fastest cores in the world for PC gamers. The architecture represents the most comprehensive design overhaul of the  era. Over 20 major changes include wider and more flexible execution resources; significantly more load/store bandwidth to feed execution; and a streamlined front-end to get more threads in flight and do it faster. The  architecture can extract an average of 19% additional performance from every MHz of frequency relative to the previous generation2. This is a historically",
+      "key_Features": [
+        "Model: Ryzen 5 5500",
+        "Speed: 3.6GHz; Up to 4.2GHz",
+        "L2 Cache: 3MB, L3 Cache: 16MB",
+        "Cores: 6, Threads: 12",
+        "Up to 3200MHz DDR4",
+        "Maximum Speed: 3200MHz",
+        "Type: DDR4",
+        "Manufacturing Warranty: 03 Years (No Warranty for Fan or Cooler"
+      ],
+      "rating": 5,
+      "average_rating": 4,
+      "reviews": [
+        "This is a very good Processor I really liked It. Recommended",
+        "irst of all ryzen 3 3200g is a best apu out there for gaming and everything but this is not a budget apu at all,if you add more ram and ssd to your setup then the price won t be budget friendly.i own it and i love it so so much..and thanks to STAR TECH for my setup.",
+        "es this a good apu for low price Best game",
+        "Waiting for arrival! This is a very budget friendly processor for gamers!"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i3-10105/core-i3-10105-001-500x500.jpg",
+      "product_name": "Intel Core i3 10105 10th Gen Comet Lake Processor",
+      "category": "cpu/processor",
+      "quantity": 17,
+      "price": 1581,
+      "description": "The Intel Core i3 10105 10th Gen Processor comes with 3.70 GHz up to 4.40 GHz clock speed, 4 cores and 8 threads. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 400 and 500 series motherboard.",
+      "key_Features": [
+        "Model: Intel Core i3 10105",
+        "Socket Supported FCLGA1200",
+        "Speed 3.70 GHz up to 4.40 GHz",
+        "Cores- 4 & Threads- 8, 6M Cache",
+        "Intel UHD Graphics 630",
+        "Base Frequency: 3.70 GHz",
+        "Maximum Turbo Frequency: 4.40 GHz",
+        "Cache: 6 MB Smart Cache"
+      ],
+      "rating": 3,
+      "average_rating": 5,
+      "reviews": [
+        "This is a very good Processor I really liked It. Recommended",
+        "irst of all ryzen 3 3200g is a best apu out there for gaming and everything but this is not a budget apu at all,if you add more ram and ssd to your setup then the price won t be budget friendly.i own it and i love it so so much..and thanks to STAR TECH for my setup.",
+        "es this a good apu for low price Best game",
+        "Waiting for arrival! This is a very budget friendly processor for gamers!"
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-500x500.jpg",
+      "product_name": "Intel 10th Gen Core i3 10100 Processor",
+      "category": "cpu/processor",
+      "quantity": 10,
+      "price": 1746,
+      "description": "This processor comes with a new breed that come with an enabled integrated GPU, so a separate graphics card is not required for its functionality. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup",
+      "key_Features": [
+        "Model: Intel Core i3 10100",
+        "Socket Supported FCLGA1200",
+        "Speed 3.60 up to 4.30 GHz",
+        "Cores- 4 & Threads- 8",
+        "6M Cache",
+        "Base Frequency: 3.60 GHz",
+        "Maximum Turbo Frequency: 4.30 GHz",
+        "Default TDP: 65 W"
+      ],
+      "rating": 1,
+      "average_rating": 1,
+      "reviews": [
+        "This is a very good Processor I really liked It. Recommended",
+        "irst of all ryzen 3 3200g is a best apu out there for gaming and everything but this is not a budget apu at all,if you add more ram and ssd to your setup then the price won t be budget friendly.i own it and i love it so so much..and thanks to STAR TECH for my setup.",
+        "es this a good apu for low price Best game",
+        "Waiting for arrival! This is a very budget friendly processor for gamers!"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100f/i3-12100f-500x500.jpg",
+      "product_name": "Intel Core i3-12100F 12th Gen Alder Lake Processor",
+      "category": "cpu/processor",
+      "quantity": 30,
+      "price": 7766,
+      "description": "The latest Intel 12th Gen Core i3-12100F Processor comes with 4 cores and 8 threads. It has a base frequency of 3.30 GHz and a maximum boost frequency of up to 4.30 GHz. The i3-12100F Alder Lake Processor comes with a 12 MB Intel Smart Cache and it has a 5 MB L2 cache. It features a Processor Base Power of 58W and a maximum turbo power of 89W. The Intel Core i3-12100F comes with 2 memory channels and it supports 128GB of maximum memory. The maximum bandwidth is 76.8 GB/s.",
+      "key_Features": [
+        "Model: Core i3-12100F 12th Gen",
+        "Clock Speed: 3.30 GHz Up to 4.30 GHz",
+        "Cache: 12MB, Socket: LGA 1700",
+        "CPU Cores: 4, CPU Threads: 8",
+        "Max Memory Size: 128 GB",
+        "Maximum Speed: 76.8 GB/s",
+        "Manufacturing Warranty: 03 years warranty (No Warranty for Fan or Cooler)"
+      ],
+      "rating": 1,
+      "average_rating": 2,
+      "reviews": [
+        "This is a very good Processor I really liked It. Recommended",
+        "irst of all ryzen 3 3200g is a best apu out there for gaming and everything but this is not a budget apu at all,if you add more ram and ssd to your setup then the price won t be budget friendly.i own it and i love it so so much..and thanks to STAR TECH for my setup.",
+        "es this a good apu for low price Best game",
+        "Waiting for arrival! This is a very budget friendly processor for gamers!"
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-500x500.jpg",
+      "product_name": "AMD Ryzen 3 4100 Processor",
+      "category": "cpu/processor",
+      "quantity": 6,
+      "price": 2089,
+      "description": "",
+      "key_Features": [
+        "Model: Ryzen 3 4100",
+        "Clock Speed: 3.8GHz; Up to 4.0GHz",
+        "4 Cores & 8 Threads",
+        "CPU Socket: AM4",
+        "Default TDP: 65W",
+        "Maximum Speed: 3200MHz",
+        "Manufacturing Warranty: 03 years (No Warranty for Fan or Cooler)"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "This is a very good Processor I really liked It. Recommended",
+        "irst of all ryzen 3 3200g is a best apu out there for gaming and everything but this is not a budget apu at all,if you add more ram and ssd to your setup then the price won t be budget friendly.i own it and i love it so so much..and thanks to STAR TECH for my setup.",
+        "es this a good apu for low price Best game",
+        "Waiting for arrival! This is a very budget friendly processor for gamers!"
+      ]
+    }
+  ],
+
+  "motherboard": [
+    {
+      "id": 7,
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-h610m-K-d4/prime-h610m-K-d4-02-500x500.jpg",
+      "product_name": "ASUS PRIME H610M-K D4-SI 12th Gen mATX Motherboard (Commercial Edition)",
+      "category": "motherboard",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The ASUS PRIME H610M-K D4-SI supports 12th Gen Intel processors and Intel LGA 1700 socket and Intel Turbo Boost Technology 2.0 and Intel Turbo Boost Max Technology 3.0. This motherboard comes with an Enhanced power solution, six-layer PCB, ProCool socket, military-grade TUF components, and Digi+ VRM for maximum durability. It has a robust power design, comprehensive cooling solutions, and intelligent tuning options. It features 32Gbps M.2 slot, Realtek 1 Gb Ethernet, and USB 3.2 Gen 1 support. Multiple PCB layers optimize heat management for critical components, providing more headroom to push CPUs beyond stock speeds. The motherboard comes with upgraded power delivery and comprehensive cooling options to drive the 12th Gen Intel Core processors, plus support for faster memory and storage, ASUS PRIME H610M-K D4-SI motherboards are the perfect foundation for your next high-core-count battle rig. The TUF GAMING platform gives you the arsenal you need to build and optimize your dream gaming rig, without unnecessary complexity. the new ASUS PRIME H610M-K D4-SI motherboards provide a high-performance gaming package with a long list of features ultrafast networking for smoother online gameplay,",
+      "key_Features": [
+        "Model: PRIME H610M-K D4-SI",
+        "Supported CPU: Intel LGA 1700 socket for 12th Gen processor",
+        "Supported RAM: 2 x DIMM, Max. 64GB, DDR4 3200",
+        "Graphics Output: 1 x D-Sub, 1 x HDMI",
+        "Features: Realtek 1Gb Ethernet",
+        "",
+        ""
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended",
+        "irst of all ryzen 3 3200g is a best apu out there for gaming and everything but this is not a budget apu at all,if you add more ram and ssd to your setup then the price won t be budget friendly.i own it and i love it so so much..and thanks to STAR TECH for my setup."
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h610m-hdv-m-2/h610m-hdv-m-2-01-500x500.jpg",
+      "product_name": "ASRock H610M-HDV/M.2 13th Gen & 12th Gen Micro ATX Motherboard",
+      "category": "motherboard",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The ASRock H610M-HDV/M.2 Motherboard Supports 13th Gen & 12th Gen Intel Core Processors (LGA1700). It features a 6 Phase Power Design and it supports DDR4 3200MHz. uses a next-generation digital PWM (Pulse-Width Modulation) design, which provides CPU Vcore voltage more efficiently and smoothly, so that the stability and lifespan of the motherboard are greatly enhanced.",
+      "key_Features": [
+        "Model: H610M-HDV/M.2",
+        "Supports 13th Gen & 12th Gen Intel Core Processors (LGA1700)",
+        "6 Phase Power Design",
+        "Supports DDR4 3200MHz",
+        "Graphics Output Options: HDMI, DisplayPort, D-Sub"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "This is a very good Processor I really liked It. Recommended",
+        "This is a very good Processor I really liked It. Recommended",
+        "This is a very good Processor I really liked It. Recommended",
+        "Waiting for arrival! This is a very budget friendly processor for gamers!"
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h510m-h/h510m-h-box-500x500.jpg",
+      "product_name": "GIGABYTE H510M H Intel 10th and 11th Gen Micro ATX Motherboard",
+      "category": "motherboard",
+      "quantity": 6,
+      "price": 2089,
+      "description": "GIGABYTE H510M H Motherboard supports 11th and 10th Gen Intel Core Series Processors and comes with Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs. It features Ultra-Fast M.2 with PCIe Gen3 X4 & SATA Interface. It is powered by GIGABYTE Exclusive 8118 Gaming LAN with Bandwidth Management. Realtek 8118 LAN is a high performance and friendly network chip for gaming players with automatic bandwidth allocation to ensure the highest network priority of the game or application. It can provide users with the most comprehensive features and the fastest and smoothest Internet experience. GIGABYTE motherboards use high-end audio capacitors. These high-quality capacitors help deliver high resolution and high fidelity audio to provide the most realistic sound effects for gamers. It features an audio noise guard that essentially separates the boardâ€™s sensitive analogue audio components from potential noise pollution at the PCB level. Smart Fan 6 Features Multiple Temperature Sensors, Hybrid Fan Headers with FAN STOP. The Smart Fan 6 contains several unique cooling features that ensure the gaming PC maintain their performance while staying cool and quiet. Each fan headers support PWM and DC fan and Water cooling Pump, and up to 24W (12V x 2A) with Over-Current Protection. ",
+      "key_Features": [
+        "Model: H510M H",
+        "Supports 11th and 10th Gen Intel Core Processors",
+        "Dual-Channel DDR4, 2 DIMMs",
+        "Ultra-Fast M.2 with PCIe Gen3 X4",
+        "GIGABYTE Exclusive 8118 Gaming LAN"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended",
+        "Waiting for arrival! This is a very budget friendly processor for gamers!",
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h510m-hdv-m-2/h510m-hdv-m-2-500x500.jpg",
+      "product_name": "ASRock H510M-HDV/M.2 10th and 11th Gen Micro ATX Motherboard",
+      "category": "motherboard",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The ASRock H510M-HDV/M.2 Micro ATX Motherboard Supports 10th Gen Intel Core Processors and 11th Gen Intel Core Processors. It supports DDR4 3200MHz (OC). It comes with 1 x PCIe 4.0 x16, 1 x PCIe 3.0 x1 and 3 Graphics Output Options: HDMI, DVI-D, D-Sub. Plus the HDMI port supports 4K resolution. ASRockâ€™s premium 50A power chokes effectively make the saturation current up to three times better, thus providing enhanced and improved Vcore voltage to the motherboard. Conventional PC systems processors can only access a fraction of graphics memory and limit system performance. With Clever Access Memory, the data channel gets expanded to harness the full potential of GPU memory, removes the bottleneck, and increase performance. It comes with a 7.1 CH HD Audio (Realtek ALC897 Audio Codec). It features 4 SATA3 and 1 x Ultra M.2 (PCIe Gen3 x4 & SATA3). The PCIe Gen3 x4 Ultra M.2 interface pushes data transfer speeds up to 32Gb/s. In addition, it also supports SATA3 6Gb/s M.2 modules and is compatible with ASRockâ€™s U.2 Kit for installing some of the worldâ€™s fastest U.2 PCIe Gen3 x4 SSDs. It also has 4 x USB 3.2 Gen1 (2 x Rear, 2 x Front) and 6 x USB 2.0 (4 x Rear, 2 x Front). It is equipped with Intel Gigabit LAN that provides the best throughput performance, lower CPU utilization, enhanced stability, and is able to deliver the ultimate network experience to users. Some sensitive digital components on the motherboard are vulnerable to power surges, the excessive current may cause your system to malfunction immediately. ASRock Full Spike Protection includes various technologies to prevent your motherboardâ€™s components from being damaged by these unexpected voltage spikes. You can also easily optimize your system and keep your motherboard up to date with ASRock Live Update & APP Shop. It has 3 years of warranty.",
+      "key_Features": [
+        "Model: H510M-HDV/M.2",
+        "Supports 10th and 11th Gen Intel Core Processors",
+        "Supports DDR4 3200MHz (OC)",
+        "Base Frequency Boost (BFB) Technology",
+        "Ultra M.2 32 Gb/s",
+        "ASRock H510M-HDV/M.2 10th and 11th Gen Micro ATX Motherboard",
+        ""
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": ["", "", "", ""]
+    },
+    {
+      "id": 11,
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h410m-h-v2/h410m-h-v2-01-500x500.webp",
+      "product_name": "GIGABYTE H410M H V2 10th Gen Micro ATX Motherboard",
+      "category": "motherboard",
+      "quantity": 6,
+      "price": 2089,
+      "description": "the GIGABYTE H410M H V2 10th & Gen Micro ATX Motherboard is made for Intel 10th and Generation processors. The GIGABYTE H410M H V2 Gen Motherboard has two DIMM RAM slots available which can support Bus Speeds of up to 2933MHz. The motherboard supports HDMI and D-Sub graphical output ports and can display two displays at once. The GIGABYTE motherboard also comes with 8-Channel HD Audio with High-Quality Audio Capacitors which provide crystal clear sound all around. The mother also provides you with NVMe PCIe Gen3 x4 2280 M.2 Connector, Intel GbE LAN with cFosSpeed Internet Accelerator Software, and more.",
+      "key_Features": [
+        "Supported CPU: 10th Gen Intel Core Processors",
+        "Model: H410M H V2",
+        "Supported RAM: DDR4, 2 DIMMs, up to 64 GB",
+        "Supported RAM: DDR4, 2 DIMMs, up to 64 GB",
+        "Graphics Output: 1 x D-Sub, 1 x HDMI",
+        "Features: Intel GbE LAN with cFosSpeed",
+        "GIGABYTE H410M H V2 10th Gen Micro ATX Motherboard"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended",
+        ""
+      ]
+    }
+  ],
+
+  "ram": [
+    {
+      "id": 12,
+      "image": "https://www.startech.com.bd/image/cache/catalog/RAM/VENG_LPX_BLK_01-500x500.png",
+      "product_name": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
+      "category": "RAM",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Intel Core i3 10105 10th Gen Processor comes with 3.70 GHz up to 4.40 GHz clock speed, 4 cores and 8 threads. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 400 and 500 series motherboard.",
+      "key_Features": [
+        "MPN: CMK8GX4M1E3200C16",
+        "Model: Corsair Vengeance LPX 8GB",
+        "Capacity 8GB",
+        "Speed: 3200MHz",
+        "Tested Latency: 16-20-20-38",
+        "Voltage: 1.35V",
+        ""
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended",
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/vulcan-z/vulcan-z-500x500.jpg",
+      "product_name": "Team Vulcan Z 8GB DDR4 3200MHz Gaming RAM",
+      "category": "RAM",
+      "quantity": 6,
+      "price": 2089,
+      "description": "FORCE VULCAN Zâ€™s all new cooling module is designed for complete protection and enhanced heat dissipation. The heat spreader is formed by punch press process with a 0.8mm thick, one-piece alloy aluminum to reinforce the body structure. In addition, coloring with electrolytic anodizing process can enhance corrosion resistance and make it non-conductive. Moreover, with superconductivity â€“ thermally conductive adhesive, it can quickly transfer the heat on IC chip through heat conduction to aluminum alloy cooling module for better heat dissipation. Therefore, the gaming memory can be maintained within operating temperature, and offering the finest and smoothest gaming experience and an extreme performance without any lag.",
+      "key_Features": [
+        "MPN: TLZRD48G3200HC16C01",
+        "Model: Team Vulcan Z",
+        "Capacity 8GB",
+        "Supports Intel & AMD motherboards",
+        "Selected high-quality IC",
+        "Supports XM P2.0",
+        ""
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended",
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-plus/elite-plus-red-01-500x500.jpg",
+      "product_name": "Team Elite Plus Red 8GB 3200MHz DDR4 U-DIMM Desktop RAM",
+      "category": "RAM",
+      "quantity": 6,
+      "price": 2089,
+      "description": "FORCE VULCAN Zâ€™s all new cooling module is designed for complete protection and enhanced heat dissipation. The heat spreader is formed by punch press process with a 0.8mm thick, one-piece alloy aluminum to reinforce the body structure. In addition, coloring with electrolytic anodizing process can enhance corrosion resistance and make it non-conductive. Moreover, with superconductivity â€“ thermally conductive adhesive, it can quickly transfer the heat on IC chip through heat conduction to aluminum alloy",
+      "key_Features": [
+        "MPN: TLZRD48G3200HC16C01",
+        "Model: Team Vulcan Z",
+        "Capacity 8GB",
+        "Supports Intel & AMD motherboards",
+        "Selected high-quality IC",
+        "Supports XM P2.0",
+        ""
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast/fury-beast-01-500x500.jpg",
+      "product_name": "Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM",
+      "category": "RAM",
+      "quantity": 6,
+      "price": 2089,
+      "description": "FORCE VULCAN Zâ€™s all new cooling module is designed for complete protection and enhanced heat dissipation. The heat spreader is formed by punch press process with a 0.8mm thick, one-piece alloy aluminum to reinforce the body structure. In addition, coloring with electrolytic anodizing process can enhance corrosion resistance and make it non-conductive. Moreover, with superconductivity â€“ thermally conductive adhesive, it can quickly transfer the heat on IC chip through heat conduction to aluminum alloy",
+      "key_Features": [
+        "MPN: TLZRD48G3200HC16C01",
+        "Model: Team Vulcan Z",
+        "Capacity 8GB",
+        "Supports Intel & AMD motherboards",
+        "Selected high-quality IC",
+        "Supports XM P2.0",
+        ""
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/vulcan-tuf/vulcan-tuf-01-500x500.jpg",
+      "product_name": "Team T-Force VULCAN TUF Gaming Alliance 8GB 3200MHz DDR4 Desktop RAM",
+      "category": "RAM",
+      "quantity": 6,
+      "price": 2089,
+      "description": "FORCE VULCAN Zâ€™s all new cooling module is designed for complete protection and enhanced heat dissipation. The heat spreader is formed by punch press process with a 0.8mm thick, one-piece alloy aluminum to reinforce the body structure. In addition, coloring with electrolytic anodizing process can enhance corrosion resistance and make it non-conductive. Moreover, with superconductivity â€“ thermally conductive adhesive, it can quickly transfer the heat on IC chip through heat conduction to aluminum alloy",
+      "key_Features": [
+        "MPN: TLZRD48G3200HC16C01",
+        "Model: Team Vulcan Z",
+        "Capacity 8GB",
+        "Supports Intel & AMD motherboards",
+        "Selected high-quality IC",
+        "Supports XM P2.0",
+        ""
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    }
+  ],
+
+  "powerSupply": [
+    {
+      "id": 17,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/cooler-master/xg850-plus-platinum/xg850-plus-platinum-01-500x500.webp",
+      "product_name": "Cooler Master XG850 Plus Platinum Full Modular ARGB 850W Power Supply with Digital Options",
+      "category": "PowerSupply",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The XG850 Plus Platinum is Cooler Master’s first in-house engineered platform, built to give rated efficiency and high-end performance. It has an ARGB 135mm quiet fan and full-modular cabling with in-line capacitors. The built-in Information Display Panel can easily handle ARGB effects, monitor real-time performance, and is compatible with MasterPlus+ software. The release of the XG Plus Platinum is the result of years of work and the start of a new era for Cooler Master power supplies. With this product series, Cooler Master introduces its first generation of internally developed power supply systems. Cooler Master is able to provide a completely new class of high-efficiency products thanks to this technology. This power supply unit can give a top-tier performance with minimal ripple noise thanks to the use of 100% Japanese capacitors.",
+      "key_Features": [
+        "MPN: MPG-8501-AFBAP-XUK",
+        "Model: XG850 Plus Platinum",
+        "Intel ATX 12V Version 2.53",
+        "80 PLUS Platinum Certified",
+        "Quiet ARGB 135mm silent Fan, Built-in Information Display Panel",
+        "Full-Modular Cabling with 100% Japanese In-Line Capacitors"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/kratos-m1-750b/kratos-m1-750b-01-500x500.jpg",
+      "product_name": "Gamdias Kratos M1-750B 750W 80 Plus Bronze ARGB Power Supply",
+      "category": "PowerSupply",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The XG850 Plus Platinum is Cooler Master’s first in-house engineered platform, built to give rated efficiency and high-end performance. It has an ARGB 135mm quiet fan and full-modular cabling with in-line capacitors. The built-in Information Display Panel can easily handle ARGB effects, monitor real-time performance, and is compatible with MasterPlus+ software. The release of the XG Plus Platinum is the result of years of work and the start of a new era for Cooler Master power supplies. With this product series, Cooler Master introduces its first generation of internally developed power supply systems. Cooler Master is able to provide a completely new class of high-efficiency products thanks to this technology. This power supply unit can give a top-tier performance with minimal ripple noise thanks to the use of 100% Japanese capacitors.",
+      "key_Features": [
+        "MPN: MPG-8501-AFBAP-XUK",
+        "Model: XG850 Plus Platinum",
+        "Intel ATX 12V Version 2.53",
+        "80 PLUS Platinum Certified",
+        "Quiet ARGB 135mm silent Fan, Built-in Information Display Panel",
+        "Full-Modular Cabling with 100% Japanese In-Line Capacitors"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-850p/rog-thor-850p-box-500x500.jpg",
+      "product_name": "ASUS ROG THOR 850P 80+ Platinum Power Supply",
+      "category": "PowerSupply",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The XG850 Plus Platinum is Cooler Master’s first in-house engineered platform, built to give rated efficiency and high-end performance. It has an ARGB 135mm quiet fan and full-modular cabling with in-line capacitors. The built-in Information Display Panel can easily handle ARGB effects, monitor real-time performance, and is compatible with MasterPlus+ software. The release of the XG Plus Platinum is the result of years of work and the start of a new era for Cooler Master power supplies. With this product series, Cooler Master introduces its first generation of internally developed power supply systems. Cooler Master is able to provide a completely new class of high-efficiency products thanks to this technology. This power supply unit can give a top-tier performance with minimal ripple noise thanks to the use of 100% Japanese capacitors.",
+      "key_Features": [
+        "MPN: MPG-8501-AFBAP-XUK",
+        "Model: XG850 Plus Platinum",
+        "Intel ATX 12V Version 2.53",
+        "80 PLUS Platinum Certified",
+        "Quiet ARGB 135mm silent Fan, Built-in Information Display Panel",
+        "Full-Modular Cabling with 100% Japanese In-Line Capacitors"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/msi/mpg-a1000g-pcie5/mpg-a1000g-pcie5-01-500x500.webp",
+      "product_name": "MSI MPG A1000G PCIE5 1000W 80 Plus Gold Full Modular Power Supply",
+      "category": "PowerSupply",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The XG850 Plus Platinum is Cooler Master’s first in-house engineered platform, built to give rated efficiency and high-end performance. It has an ARGB 135mm quiet fan and full-modular cabling with in-line capacitors. The built-in Information Display Panel can easily handle ARGB effects, monitor real-time performance, and is compatible with MasterPlus+ software. The release of the XG Plus Platinum is the result of years of work and the start of a new era for Cooler Master power supplies. With this product series, Cooler Master introduces its first generation of internally developed power supply systems. Cooler Master is able to provide a completely new class of high-efficiency products thanks to this technology. This power supply unit can give a top-tier performance with minimal ripple noise thanks to the use of 100% Japanese capacitors.",
+      "key_Features": [
+        "MPN: MPG-8501-AFBAP-XUK",
+        "Model: XG850 Plus Platinum",
+        "Intel ATX 12V Version 2.53",
+        "80 PLUS Platinum Certified",
+        "Quiet ARGB 135mm silent Fan, Built-in Information Display Panel",
+        "Full-Modular Cabling with 100% Japanese In-Line Capacitors"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/revenger/vp-350/vp-350-01-500x500.webp",
+      "product_name": "Revenger VP 350 Watt Power Supply",
+      "category": "PowerSupply",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The XG850 Plus Platinum is Cooler Master’s first in-house engineered platform, built to give rated efficiency and high-end performance. It has an ARGB 135mm quiet fan and full-modular cabling with in-line capacitors. The built-in Information Display Panel can easily handle ARGB effects, monitor real-time performance, and is compatible with MasterPlus+ software. The release of the XG Plus Platinum is the result of years of work and the start of a new era for Cooler Master power supplies. With this product series, Cooler Master introduces its first generation of internally developed power supply systems. Cooler Master is able to provide a completely new class of high-efficiency products thanks to this technology. This power supply unit can give a top-tier performance with minimal ripple noise thanks to the use of 100% Japanese capacitors.",
+      "key_Features": [
+        "MPN: MPG-8501-AFBAP-XUK",
+        "Model: XG850 Plus Platinum",
+        "Intel ATX 12V Version 2.53",
+        "80 PLUS Platinum Certified",
+        "Quiet ARGB 135mm silent Fan, Built-in Information Display Panel",
+        "Full-Modular Cabling with 100% Japanese In-Line Capacitors"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/meta-v550/meta-v550-01-500x500.webp ",
+      "product_name": "Antec META V550 550W Power Supply",
+      "category": "PowerSupply",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The XG850 Plus Platinum is Cooler Master’s first in-house engineered platform, built to give rated efficiency and high-end performance. It has an ARGB 135mm quiet fan and full-modular cabling with in-line capacitors. The built-in Information Display Panel can easily handle ARGB effects, monitor real-time performance, and is compatible with MasterPlus+ software. The release of the XG Plus Platinum is the result of years of work and the start of a new era for Cooler Master power supplies. With this product series, Cooler Master introduces its first generation of internally developed power supply systems. Cooler Master is able to provide a completely new class of high-efficiency products thanks to this technology. This power supply unit can give a top-tier performance with minimal ripple noise thanks to the use of 100% Japanese capacitors.",
+      "key_Features": [
+        "MPN: MPG-8501-AFBAP-XUK",
+        "Model: XG850 Plus Platinum",
+        "Intel ATX 12V Version 2.53",
+        "80 PLUS Platinum Certified",
+        "Quiet ARGB 135mm silent Fan, Built-in Information Display Panel",
+        "Full-Modular Cabling with 100% Japanese In-Line Capacitors"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/thor-1200p2/thor-1200p2-500x500.webp ",
+      "product_name": "ASUS ROG THOR 1200P2 GAMING 80 Plus Platinum 1200W Power Supply",
+      "category": "PowerSupply",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The XG850 Plus Platinum is Cooler Master’s first in-house engineered platform, built to give rated efficiency and high-end performance. It has an ARGB 135mm quiet fan and full-modular cabling with in-line capacitors. The built-in Information Display Panel can easily handle ARGB effects, monitor real-time performance, and is compatible with MasterPlus+ software. The release of the XG Plus Platinum is the result of years of work and the start of a new era for Cooler Master power supplies. With this product series, Cooler Master introduces its first generation of internally developed power supply systems. Cooler Master is able to provide a completely new class of high-efficiency products thanks to this technology. This power supply unit can give a top-tier performance with minimal ripple noise thanks to the use of 100% Japanese capacitors.",
+      "key_Features": [
+        "MPN: MPG-8501-AFBAP-XUK",
+        "Model: XG850 Plus Platinum",
+        "Intel ATX 12V Version 2.53",
+        "80 PLUS Platinum Certified",
+        "Quiet ARGB 135mm silent Fan, Built-in Information Display Panel",
+        "Full-Modular Cabling with 100% Japanese In-Line Capacitors"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    }
+  ],
+
+  "storage": [
+    {
+      "id": 24,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/t7-blue/t7-blue-01-500x500.webp ",
+      "product_name": "Samsung T7 2TB USB 3.2 Type-C Portable SSD (Blue)",
+      "category": "storageDevice",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Samsung T7 2TB USB 3.2 Type-C Portable SSD (Blue) is a small, safe storage device that fits in the palm of your hand. The T7, which is about the size of many stacked credit cards, has 256-bit AES encryption and password security so customers can feel secure knowing their data is secure. Additionally, the T7 gives consumers speedy performance and low downtime with read and write speeds of up to 1050 MB/s and 1000 MB/s, respectively, thanks to PCIe NVMe technology. It has a USB 3.1 Gen 2 Type-C connector and, with the proper connection, is also backward compatible with USB 3.0 and Type-A devices. The T7's small and light shape is meant to fit easily in a pocket. Roughly the size of a credit card and weighing in at just 2 ounces, this drive features a solid aluminum unibody construction that fits comfortably in the palm of your hand. SSD stands for Solid State Drive, which means it's built with no moving parts. The hardware can be secured with an AES 256-bit encrypted password and is encased in a sturdy metal body that keeps data intact from falls of up to 6.6'. Don't be concerned about overheating when using the T7. In order to withstand and manage heat, a sophisticated thermal solution is used, keeping the small SSD at an ideal temperature even at high speeds.",
+      "key_Features": [
+        "USB 3.2 Gen 2 Interface",
+        "Read Speeds up to 1050 MB/s",
+        "PCIe NVMe Technology",
+        "Capacity: 2TB",
+        "Model: T7"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 25,
+      "image": " https://www.startech.com.bd/image/cache/catalog/pendrive/apacer/ah15a/ah15a-01-500x500.webp ",
+      "product_name": "Apacer AH15A 32GB USB 3.2 Gen 1 Flash Drive",
+      "category": "storageDevice",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Samsung T7 2TB USB 3.2 Type-C Portable SSD (Blue) is a small, safe storage device that fits in the palm of your hand. The T7, which is about the size of many stacked credit cards, has 256-bit AES encryption and password security so customers can feel secure knowing their data is secure. Additionally, the T7 gives consumers speedy performance and low downtime with read and write speeds of up to 1050 MB/s and 1000 MB/s, respectively, thanks to PCIe NVMe technology. It has a USB 3.1 Gen 2 Type-C connector and, with the proper connection, is also backward compatible with USB 3.0 and Type-A devices. The T7's small and light shape is meant to fit easily in a pocket. Roughly the size of a credit card and weighing in at just 2 ounces, this drive features a solid aluminum unibody construction that fits comfortably in the palm of your hand. SSD stands for Solid State Drive, which means it's built with no moving parts. The hardware can be secured with an AES 256-bit encrypted password and is encased in a sturdy metal body that keeps data intact from falls of up to 6.6'. Don't be concerned about overheating when using the T7. In order to withstand and manage heat, a sophisticated thermal solution is used, keeping the small SSD at an ideal temperature even at high speeds.",
+      "key_Features": [
+        "USB 3.2 Gen 2 Interface",
+        "Read Speeds up to 1050 MB/s",
+        "PCIe NVMe Technology",
+        "Capacity: 2TB",
+        "Model: T7"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://www.startech.com.bd/image/cache/catalog/pendrive/apacer/ah155/ah155-01-500x500.webp  ",
+      "product_name": "Apacer AH155 64GB USB 3.2 Gen 1 Flash Drive Apacer AH155 64GB USB 3.2 Gen 1 Flash Drive Apacer AH155 64GB USB 3.2 Gen 1 Flash Drive",
+      "category": "storageDevice",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Samsung T7 2TB USB 3.2 Type-C Portable SSD (Blue) is a small, safe storage device that fits in the palm of your hand. The T7, which is about the size of many stacked credit cards, has 256-bit AES encryption and password security so customers can feel secure knowing their data is secure. Additionally, the T7 gives consumers speedy performance and low downtime with read and write speeds of up to 1050 MB/s and 1000 MB/s, respectively, thanks to PCIe NVMe technology. It has a USB 3.1 Gen 2 Type-C connector and, with the proper connection, is also backward compatible with USB 3.0 and Type-A devices. The T7's small and light shape is meant to fit easily in a pocket. Roughly the size of a credit card and weighing in at just 2 ounces, this drive features a solid aluminum unibody construction that fits comfortably in the palm of your hand. SSD stands for Solid State Drive, which means it's built with no moving parts. The hardware can be secured with an AES 256-bit encrypted password and is encased in a sturdy metal body that keeps data intact from falls of up to 6.6'. Don't be concerned about overheating when using the T7. In order to withstand and manage heat, a sophisticated thermal solution is used, keeping the small SSD at an ideal temperature even at high speeds.",
+      "key_Features": [
+        "USB 3.2 Gen 2 Interface",
+        "Read Speeds up to 1050 MB/s",
+        "PCIe NVMe Technology",
+        "Capacity: 2TB",
+        "Model: T7"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://www.startech.com.bd/image/cache/catalog/pendrive/transcend/jetflash-700-256gb/jetflash-700-256gb-01-500x500.webp",
+      "product_name": "Transcend JetFlash 700 256GB USB 3.1 Pen Drive",
+      "category": "storageDevice",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Samsung T7 2TB USB 3.2 Type-C Portable SSD (Blue) is a small, safe storage device that fits in the palm of your hand. The T7, which is about the size of many stacked credit cards, has 256-bit AES encryption and password security so customers can feel secure knowing their data is secure. Additionally, the T7 gives consumers speedy performance and low downtime with read and write speeds of up to 1050 MB/s and 1000 MB/s, respectively, thanks to PCIe NVMe technology. It has a USB 3.1 Gen 2 Type-C connector and, with the proper connection, is also backward compatible with USB 3.0 and Type-A devices. The T7's small and light shape is meant to fit easily in a pocket. Roughly the size of a credit card and weighing in at just 2 ounces, this drive features a solid aluminum unibody construction that fits comfortably in the palm of your hand. SSD stands for Solid State Drive, which means it's built with no moving parts. The hardware can be secured with an AES 256-bit encrypted password and is encased in a sturdy metal body that keeps data intact from falls of up to 6.6'. Don't be concerned about overheating when using the T7. In order to withstand and manage heat, a sophisticated thermal solution is used, keeping the small SSD at an ideal temperature even at high speeds.",
+      "key_Features": [
+        "USB 3.2 Gen 2 Interface",
+        "Read Speeds up to 1050 MB/s",
+        "PCIe NVMe Technology",
+        "Capacity: 2TB",
+        "Model: T7"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as6602t/as6602t-01-500x500.webp",
+      "product_name": "Asustor AS7112RDX Lockerstor 12R Pro NAS Storage",
+      "category": "storageDevice",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Samsung T7 2TB USB 3.2 Type-C Portable SSD (Blue) is a small, safe storage device that fits in the palm of your hand. The T7, which is about the size of many stacked credit cards, has 256-bit AES encryption and password security so customers can feel secure knowing their data is secure. Additionally, the T7 gives consumers speedy performance and low downtime with read and write speeds of up to 1050 MB/s and 1000 MB/s, respectively, thanks to PCIe NVMe technology. It has a USB 3.1 Gen 2 Type-C connector and, with the proper connection, is also backward compatible with USB 3.0 and Type-A devices. The T7's small and light shape is meant to fit easily in a pocket. Roughly the size of a credit card and weighing in at just 2 ounces, this drive features a solid aluminum unibody construction that fits comfortably in the palm of your hand. SSD stands for Solid State Drive, which means it's built with no moving parts. The hardware can be secured with an AES 256-bit encrypted password and is encased in a sturdy metal body that keeps data intact from falls of up to 6.6'. Don't be concerned about overheating when using the T7. In order to withstand and manage heat, a sophisticated thermal solution is used, keeping the small SSD at an ideal temperature even at high speeds.",
+      "key_Features": [
+        "USB 3.2 Gen 2 Interface",
+        "Read Speeds up to 1050 MB/s",
+        "PCIe NVMe Technology",
+        "Capacity: 2TB",
+        "Model: T7"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://www.startech.com.bd/image/cache/catalog/nas%20storage/as6512rd-lockerstor-12rd/as6512rd-lockerstor-12rd-01-500x500.jpg",
+      "product_name": "Asustor AS6512RD Lockerstor 12RD NAS Storage ",
+      "category": "storageDevice",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Samsung T7 2TB USB 3.2 Type-C Portable SSD (Blue) is a small, safe storage device that fits in the palm of your hand. The T7, which is about the size of many stacked credit cards, has 256-bit AES encryption and password security so customers can feel secure knowing their data is secure. Additionally, the T7 gives consumers speedy performance and low downtime with read and write speeds of up to 1050 MB/s and 1000 MB/s, respectively, thanks to PCIe NVMe technology. It has a USB 3.1 Gen 2 Type-C connector and, with the proper connection, is also backward compatible with USB 3.0 and Type-A devices. The T7's small and light shape is meant to fit easily in a pocket. Roughly the size of a credit card and weighing in at just 2 ounces, this drive features a solid aluminum unibody construction that fits comfortably in the palm of your hand. SSD stands for Solid State Drive, which means it's built with no moving parts. The hardware can be secured with an AES 256-bit encrypted password and is encased in a sturdy metal body that keeps data intact from falls of up to 6.6'. Don't be concerned about overheating when using the T7. In order to withstand and manage heat, a sophisticated thermal solution is used, keeping the small SSD at an ideal temperature even at high speeds.",
+      "key_Features": [
+        "USB 3.2 Gen 2 Interface",
+        "Read Speeds up to 1050 MB/s",
+        "PCIe NVMe Technology",
+        "Capacity: 2TB",
+        "Model: T7"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as7112rdx-lockerstor-12r-pro/as7112rdx-lockerstor-12r-pro-500x500.jpg ",
+      "product_name": "Asustor AS7112RDX Lockerstor 12R Pro NAS Storage",
+      "category": "storageDevice",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Samsung T7 2TB USB 3.2 Type-C Portable SSD (Blue) is a small, safe storage device that fits in the palm of your hand. The T7, which is about the size of many stacked credit cards, has 256-bit AES encryption and password security so customers can feel secure knowing their data is secure. Additionally, the T7 gives consumers speedy performance and low downtime with read and write speeds of up to 1050 MB/s and 1000 MB/s, respectively, thanks to PCIe NVMe technology. It has a USB 3.1 Gen 2 Type-C connector and, with the proper connection, is also backward compatible with USB 3.0 and Type-A devices. The T7's small and light shape is meant to fit easily in a pocket. Roughly the size of a credit card and weighing in at just 2 ounces, this drive features a solid aluminum unibody construction that fits comfortably in the palm of your hand. SSD stands for Solid State Drive, which means it's built with no moving parts. The hardware can be secured with an AES 256-bit encrypted password and is encased in a sturdy metal body that keeps data intact from falls of up to 6.6'. Don't be concerned about overheating when using the T7. In order to withstand and manage heat, a sophisticated thermal solution is used, keeping the small SSD at an ideal temperature even at high speeds.",
+      "key_Features": [
+        "USB 3.2 Gen 2 Interface",
+        "Read Speeds up to 1050 MB/s",
+        "PCIe NVMe Technology",
+        "Capacity: 2TB",
+        "Model: T7"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    }
+  ],
+
+  "monitor": [
+    {
+      "id": 31,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/dell/d2020h/d2020h-01-500x500.webp",
+      "product_name": "Dell D2020H 19.5-inch HD+ Monitor",
+      "category": "Monitor",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Dell D2020H is a 19.5-inch HD+ monitor designed to enhance your daily workflow with its accessible size and impressive features. With an elegant design, this monitor seamlessly fits into any workspace, whether it's at home or in the office. The D2020H boasts a resolution of 1600 x 900 HD+, providing crisp and vibrant visuals that bring your content to life. The high-definition display ensures clear and detailed images, making it suitable for tasks like web browsing, document editing, and multimedia consumption. Equipped with a TN (Twisted Nematic) panel, the monitor offers decent color reproduction and wide viewing angles, ensuring that you can comfortably view the screen from different positions. The 60Hz refresh rate and 5ms response time contribute to smooth and fluid motion, minimizing blur and ghosting during fast-paced action scenes or while navigating through your applications. The D2020H offers both VGA and HDMI ports, allowing you to connect to a variety of devices, such as computers, laptops, gaming consoles, and media players. The VGA port provides compatibility with older devices, while the HDMI port enables high-quality digital connections. As an LED-backlit LCD monitor, the D2020H offers energy-efficient performance, consuming less power compared to traditional CCFL (cold cathode fluorescent lamp) monitors. This feature not only helps reduce electricity costs but also contributes to a more environmentally friendly setup. To enhance your user experience, Dell has included the Dell Display Manager with the D2020H. This software allows you to customize various display settings, such as brightness, contrast, and color calibration, according to your preferences. The Dell D2020H 19.5-inch HD+ Monitor provides a reliable and feature-rich solution for your everyday computing needs. With its sharp visuals, versatile connectivity options, and user-friendly design, it offers a comfortable viewing experience for both work and entertainment purposes.",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/P204v/P204v-500x500.jpg",
+      "product_name": "HP P204v 19.5 Inch HD LED Monitor (HDMI, VGA)",
+      "category": "Monitor",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Dell D2020H is a 19.5-inch HD+ monitor designed to enhance your daily workflow with its accessible size and impressive features. With an elegant design, this monitor seamlessly fits into any workspace, whether it's at home or in the office. The D2020H boasts a resolution of 1600 x 900 HD+, providing crisp and vibrant visuals that bring your content to life. The high-definition display ensures clear and detailed images, making it suitable for tasks like web browsing, document editing, and multimedia consumption. Equipped with a TN (Twisted Nematic) panel, the monitor offers decent color reproduction and wide viewing angles, ensuring that you can comfortably view the screen from different positions. The 60Hz refresh rate and 5ms response time contribute to smooth and fluid motion, minimizing blur and ghosting during fast-paced action scenes or while navigating through your applications. The D2020H offers both VGA and HDMI ports, allowing you to connect to a variety of devices, such as computers, laptops, gaming consoles, and media players. The VGA port provides compatibility with older devices, while the HDMI port enables high-quality digital connections. As an LED-backlit LCD monitor, the D2020H offers energy-efficient performance, consuming less power compared to traditional CCFL (cold cathode fluorescent lamp) monitors. This feature not only helps reduce electricity costs but also contributes to a more environmentally friendly setup. To enhance your user experience, Dell has included the Dell Display Manager with the D2020H. This software allows you to customize various display settings, such as brightness, contrast, and color calibration, according to your preferences. The Dell D2020H 19.5-inch HD+ Monitor provides a reliable and feature-rich solution for your everyday computing needs. With its sharp visuals, versatile connectivity options, and user-friendly design, it offers a comfortable viewing experience for both work and entertainment purposes.",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/eb192q/eb192q-01-500x500.jpg",
+      "product_name": "Acer EB192Q 18.5 Inch HD Monitor",
+      "category": "Monitor",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Dell D2020H is a 19.5-inch HD+ monitor designed to enhance your daily workflow with its accessible size and impressive features. With an elegant design, this monitor seamlessly fits into any workspace, whether it's at home or in the office. The D2020H boasts a resolution of 1600 x 900 HD+, providing crisp and vibrant visuals that bring your content to life. The high-definition display ensures clear and detailed images, making it suitable for tasks like web browsing, document editing, and multimedia consumption. Equipped with a TN (Twisted Nematic) panel, the monitor offers decent color reproduction and wide viewing angles, ensuring that you can comfortably view the screen from different positions. The 60Hz refresh rate and 5ms response time contribute to smooth and fluid motion, minimizing blur and ghosting during fast-paced action scenes or while navigating through your applications. The D2020H offers both VGA and HDMI ports, allowing you to connect to a variety of devices, such as computers, laptops, gaming consoles, and media players. The VGA port provides compatibility with older devices, while the HDMI port enables high-quality digital connections. As an LED-backlit LCD monitor, the D2020H offers energy-efficient performance, consuming less power compared to traditional CCFL (cold cathode fluorescent lamp) monitors. This feature not only helps reduce electricity costs but also contributes to a more environmentally friendly setup. To enhance your user experience, Dell has included the Dell Display Manager with the D2020H. This software allows you to customize various display settings, such as brightness, contrast, and color calibration, according to your preferences. The Dell D2020H 19.5-inch HD+ Monitor provides a reliable and feature-rich solution for your everyday computing needs. With its sharp visuals, versatile connectivity options, and user-friendly design, it offers a comfortable viewing experience for both work and entertainment purposes.",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/ka222q-h/ka222q-h-01-500x500.webp",
+      "product_name": "Acer KA222Q H 21.5 100Hz AMD FreeSync Full HD Monitor",
+      "category": "Monitor",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Dell D2020H is a 19.5-inch HD+ monitor designed to enhance your daily workflow with its accessible size and impressive features. With an elegant design, this monitor seamlessly fits into any workspace, whether it's at home or in the office. The D2020H boasts a resolution of 1600 x 900 HD+, providing crisp and vibrant visuals that bring your content to life. The high-definition display ensures clear and detailed images, making it suitable for tasks like web browsing, document editing, and multimedia consumption. Equipped with a TN (Twisted Nematic) panel, the monitor offers decent color reproduction and wide viewing angles, ensuring that you can comfortably view the screen from different positions. The 60Hz refresh rate and 5ms response time contribute to smooth and fluid motion, minimizing blur and ghosting during fast-paced action scenes or while navigating through your applications. The D2020H offers both VGA and HDMI ports, allowing you to connect to a variety of devices, such as computers, laptops, gaming consoles, and media players. The VGA port provides compatibility with older devices, while the HDMI port enables high-quality digital connections. As an LED-backlit LCD monitor, the D2020H offers energy-efficient performance, consuming less power compared to traditional CCFL (cold cathode fluorescent lamp) monitors. This feature not only helps reduce electricity costs but also contributes to a more environmentally friendly setup. To enhance your user experience, Dell has included the Dell Display Manager with the D2020H. This software allows you to customize various display settings, such as brightness, contrast, and color calibration, according to your preferences. The Dell D2020H 19.5-inch HD+ Monitor provides a reliable and feature-rich solution for your everyday computing needs. With its sharp visuals, versatile connectivity options, and user-friendly design, it offers a comfortable viewing experience for both work and entertainment purposes.",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-01-500x500.jpg",
+      "product_name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
+      "category": "Monitor",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Dell D2020H is a 19.5-inch HD+ monitor designed to enhance your daily workflow with its accessible size and impressive features. With an elegant design, this monitor seamlessly fits into any workspace, whether it's at home or in the office. The D2020H boasts a resolution of 1600 x 900 HD+, providing crisp and vibrant visuals that bring your content to life. The high-definition display ensures clear and detailed images, making it suitable for tasks like web browsing, document editing, and multimedia consumption. Equipped with a TN (Twisted Nematic) panel, the monitor offers decent color reproduction and wide viewing angles, ensuring that you can comfortably view the screen from different positions. The 60Hz refresh rate and 5ms response time contribute to smooth and fluid motion, minimizing blur and ghosting during fast-paced action scenes or while navigating through your applications. The D2020H offers both VGA and HDMI ports, allowing you to connect to a variety of devices, such as computers, laptops, gaming consoles, and media players. The VGA port provides compatibility with older devices, while the HDMI port enables high-quality digital connections. As an LED-backlit LCD monitor, the D2020H offers energy-efficient performance, consuming less power compared to traditional CCFL (cold cathode fluorescent lamp) monitors. This feature not only helps reduce electricity costs but also contributes to a more environmentally friendly setup. To enhance your user experience, Dell has included the Dell Display Manager with the D2020H. This software allows you to customize various display settings, such as brightness, contrast, and color calibration, according to your preferences. The Dell D2020H 19.5-inch HD+ Monitor provides a reliable and feature-rich solution for your everyday computing needs. With its sharp visuals, versatile connectivity options, and user-friendly design, it offers a comfortable viewing experience for both work and entertainment purposes.",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/univision/led350/led350-01-500x500.png",
+      "product_name": "Univision LED350 22 60Hz AH FHD Monitor",
+      "category": "Monitor",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Dell D2020H is a 19.5-inch HD+ monitor designed to enhance your daily workflow with its accessible size and impressive features. With an elegant design, this monitor seamlessly fits into any workspace, whether it's at home or in the office. The D2020H boasts a resolution of 1600 x 900 HD+, providing crisp and vibrant visuals that bring your content to life. The high-definition display ensures clear and detailed images, making it suitable for tasks like web browsing, document editing, and multimedia consumption. Equipped with a TN (Twisted Nematic) panel, the monitor offers decent color reproduction and wide viewing angles, ensuring that you can comfortably view the screen from different positions. The 60Hz refresh rate and 5ms response time contribute to smooth and fluid motion, minimizing blur and ghosting during fast-paced action scenes or while navigating through your applications. The D2020H offers both VGA and HDMI ports, allowing you to connect to a variety of devices, such as computers, laptops, gaming consoles, and media players. The VGA port provides compatibility with older devices, while the HDMI port enables high-quality digital connections. As an LED-backlit LCD monitor, the D2020H offers energy-efficient performance, consuming less power compared to traditional CCFL (cold cathode fluorescent lamp) monitors. This feature not only helps reduce electricity costs but also contributes to a more environmentally friendly setup. To enhance your user experience, Dell has included the Dell Display Manager with the D2020H. This software allows you to customize various display settings, such as brightness, contrast, and color calibration, according to your preferences. The Dell D2020H 19.5-inch HD+ Monitor provides a reliable and feature-rich solution for your everyday computing needs. With its sharp visuals, versatile connectivity options, and user-friendly design, it offers a comfortable viewing experience for both work and entertainment purposes.",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/philips/193v/193v-500x500.png",
+      "product_name": "PHILIPS 18.5 193V5LSB2 LED MONITOR",
+      "category": "Monitor",
+      "quantity": 6,
+      "price": 2089,
+      "description": "The Dell D2020H is a 19.5-inch HD+ monitor designed to enhance your daily workflow with its accessible size and impressive features. With an elegant design, this monitor seamlessly fits into any workspace, whether it's at home or in the office. The D2020H boasts a resolution of 1600 x 900 HD+, providing crisp and vibrant visuals that bring your content to life. The high-definition display ensures clear and detailed images, making it suitable for tasks like web browsing, document editing, and multimedia consumption. Equipped with a TN (Twisted Nematic) panel, the monitor offers decent color reproduction and wide viewing angles, ensuring that you can comfortably view the screen from different positions. The 60Hz refresh rate and 5ms response time contribute to smooth and fluid motion, minimizing blur and ghosting during fast-paced action scenes or while navigating through your applications. The D2020H offers both VGA and HDMI ports, allowing you to connect to a variety of devices, such as computers, laptops, gaming consoles, and media players. The VGA port provides compatibility with older devices, while the HDMI port enables high-quality digital connections. As an LED-backlit LCD monitor, the D2020H offers energy-efficient performance, consuming less power compared to traditional CCFL (cold cathode fluorescent lamp) monitors. This feature not only helps reduce electricity costs but also contributes to a more environmentally friendly setup. To enhance your user experience, Dell has included the Dell Display Manager with the D2020H. This software allows you to customize various display settings, such as brightness, contrast, and color calibration, according to your preferences. The Dell D2020H 19.5-inch HD+ Monitor provides a reliable and feature-rich solution for your everyday computing needs. With its sharp visuals, versatile connectivity options, and user-friendly design, it offers a comfortable viewing experience for both work and entertainment purposes.",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    }
+  ],
+
+  "others": [
+    {
+      "id": 37,
+      "image": "https://www.startech.com.bd/image/cache/catalog/earphone/oneplus/be02t/be02t-500x500.jpg",
+      "product_name": "OnePlus BE02T Type-C Straight Bullets Earphone",
+      "category": "Others",
+      "quantity": 6,
+      "price": 209,
+      "description": " The Fantech W190 is designed with Silent Switches for all-day use in the workplace or at home. Increase your productivity without disturbing others! Reduce the  sound while still providing adequate feedback. It supports both Bluetooth and 2.4GHz wifi and is compact enough to take with you on the road! You can change your input on the fly since you may connect to two devices at the same time. The Fantech W190 mouse features three DPI options: 800DPI, 1200DPI, and 1600DPI. Meet the accuracy standards for various displays. This mouse has a built-in grip made of durable material that allows you to focus on productivity without interruptions. Efficient, user-friendly, and ergonomic. It has a fully ergonomic and ambidextrous form that allows it to be used comfortably in both left and right hands. The design is extremely light, weighing only 54 grams. The lightweight construction enables all-day usage without cramping or muscular strain. The Fantech W190 Wireless Mouse Space Edition comes with a 01-year warranty.  ",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://www.startech.com.bd/image/cache/catalog/earbuds/mibro/mibro-s1/mibro-s1-02-500x500.webp",
+      "product_name": "Mibro S1 True Wireless Earbuds",
+      "category": "Others",
+      "quantity": 6,
+      "price": 209,
+      "description": " The Fantech W190 is designed with Silent Switches for all-day use in the workplace or at home. Increase your productivity without disturbing others! Reduce the  sound while still providing adequate feedback. It supports both Bluetooth and 2.4GHz wifi and is compact enough to take with you on the road! You can change your input on the fly since you may connect to two devices at the same time. The Fantech W190 mouse features three DPI options: 800DPI, 1200DPI, and 1600DPI. Meet the accuracy standards for various displays. This mouse has a built-in grip made of durable material that allows you to focus on productivity without interruptions. Efficient, user-friendly, and ergonomic. It has a fully ergonomic and ambidextrous form that allows it to be used comfortably in both left and right hands. The design is extremely light, weighing only 54 grams. The lightweight construction enables all-day usage without cramping or muscular strain. The Fantech W190 Wireless Mouse Space Edition comes with a 01-year warranty.  ",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://www.startech.com.bd/image/cache/catalog/converter/orico/w5p-u3/w5p-u3-500x500.jpg",
+      "product_name": "Jabra Evolve 40 MS/UC DUO Dual Ear Noise Canceling USB Headphone",
+      "category": "Others",
+      "quantity": 6,
+      "price": 209,
+      "description": " The Fantech W190 is designed with Silent Switches for all-day use in the workplace or at home. Increase your productivity without disturbing others! Reduce the  sound while still providing adequate feedback. It supports both Bluetooth and 2.4GHz wifi and is compact enough to take with you on the road! You can change your input on the fly since you may connect to two devices at the same time. The Fantech W190 mouse features three DPI options: 800DPI, 1200DPI, and 1600DPI. Meet the accuracy standards for various displays. This mouse has a built-in grip made of durable material that allows you to focus on productivity without interruptions. Efficient, user-friendly, and ergonomic. It has a fully ergonomic and ambidextrous form that allows it to be used comfortably in both left and right hands. The design is extremely light, weighing only 54 grams. The lightweight construction enables all-day usage without cramping or muscular strain. The Fantech W190 Wireless Mouse Space Edition comes with a 01-year warranty.  ",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://www.startech.com.bd/image/cache/catalog/headphone/jabra/evolve-40/evolve-40-500x500.jpg",
+      "product_name": "Orico W5P-U3 4 Ports USB 3.0 HUB Black",
+      "category": "Others",
+      "quantity": 6,
+      "price": 209,
+      "description": " The Fantech W190 is designed with Silent Switches for all-day use in the workplace or at home. Increase your productivity without disturbing others! Reduce the  sound while still providing adequate feedback. It supports both Bluetooth and 2.4GHz wifi and is compact enough to take with you on the road! You can change your input on the fly since you may connect to two devices at the same time. The Fantech W190 mouse features three DPI options: 800DPI, 1200DPI, and 1600DPI. Meet the accuracy standards for various displays. This mouse has a built-in grip made of durable material that allows you to focus on productivity without interruptions. Efficient, user-friendly, and ergonomic. It has a fully ergonomic and ambidextrous form that allows it to be used comfortably in both left and right hands. The design is extremely light, weighing only 54 grams. The lightweight construction enables all-day usage without cramping or muscular strain. The Fantech W190 Wireless Mouse Space Edition comes with a 01-year warranty.  ",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    },
+    {
+      "id": 41,
+      "image": "https://www.startech.com.bd/image/cache/catalog/router1/Mikrotik%20RB2011UiAS-2HnDa%20Router-500x500.png",
+      "product_name": "Mikrotik RB2011UiAS-2HnD-IN 2 Antenna Gigabit Ethernet Router",
+      "category": "Others",
+      "quantity": 6,
+      "price": 209,
+      "description": "The Fantech W190 is designed with Silent Switches for all-day use in the workplace or at home. Increase your productivity without disturbing others! Reduce the  sound while still providing adequate feedback. It supports both Bluetooth and 2.4GHz wifi and is compact enough to take with you on the road! You can change your input on the fly since you may connect to two devices at the same time. The Fantech W190 mouse features three DPI options: 800DPI, 1200DPI, and 1600DPI. Meet the accuracy standards for various displays. This mouse has a built-in grip made of durable material that allows you to focus on productivity without interruptions. Efficient, user-friendly, and ergonomic. It has a fully ergonomic and ambidextrous form that allows it to be used comfortably in both left and right hands. The design is extremely light, weighing only 54 grams. The lightweight construction enables all-day usage without cramping or muscular strain. The Fantech W190 Wireless Mouse Space Edition comes with a 01-year warranty. ",
+      "key_Features": [
+        "Features: LED-backlit LCD monitor",
+        "Ports: VGA. HDMI",
+        "Display: TN, 60Hz, 5ms",
+        "Resolution: 1600 x 900 HD+",
+        "Model: 20 D2020H"
+      ],
+      "rating": 4,
+      "average_rating": 3,
+      "reviews": [
+        "es this a good apu for low price Best game",
+        "es this a good apu for low price Best game",
+        "This is a very good Processor I really liked It. Recommended"
+      ]
+    }
+  ]
+}
