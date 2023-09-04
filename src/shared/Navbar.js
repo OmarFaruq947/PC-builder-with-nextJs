@@ -3,6 +3,133 @@ import { Layout, Menu } from "antd";
 import Link from "next/link";
 const { Header } = Layout;
 
+import { DownOutlined } from "@ant-design/icons";
+import { Dropdown, Space } from "antd";
+const items = [
+  {
+    key: "1",
+    type: "group",
+    label: "Accessory Category",
+    children: [
+      {
+        key: "1-1",
+        label: (
+          <Link href="/processor">
+            <items
+              style={{
+                margin: "0px 15px",
+              }}
+            >
+              CPU/Processor
+            </items>
+          </Link>
+        ),
+      },
+
+      {
+        key: "1-2",
+        label: (
+          <Link href="/motherboard">
+            <items
+              style={{
+                margin: "0px 15px",
+              }}
+            >
+              Motherboard
+            </items>
+          </Link>
+        ),
+      },
+
+      {
+        key: "1-3",
+        label: (
+          <Link href="/ram">
+            <items
+              style={{
+                margin: "0px 15px",
+              }}
+            >
+              RAM
+            </items>
+          </Link>
+        ),
+      },
+      {
+        key: "1-4",
+        label: (
+          <Link href="/powerSupply">
+            <items
+              style={{
+                margin: "0px 15px",
+              }}
+            >
+              Power Supply Unit
+            </items>
+          </Link>
+        ),
+      },
+      {
+        key: "1-5",
+        label: (
+          <Link href="/storageDevice">
+            <items
+              style={{
+                margin: "0px 15px",
+              }}
+            >
+              Storage Device
+            </items>
+          </Link>
+        ),
+      },
+      {
+        key: "1-6",
+        label: (
+          <Link href="/monitor">
+            <items
+              style={{
+                margin: "0px 15px",
+              }}
+            >
+              Monitor
+            </items>
+          </Link>
+        ),
+      },
+      {
+        key: "1-7",
+        label: (
+          <Link href="/others">
+            <items
+              style={{
+                margin: "0px 15px",
+              }}
+            >
+              Others
+            </items>
+          </Link>
+        ),
+      },
+    ],
+  },
+
+  // {
+  //   key: "2",
+  //   label: "sub menu",
+  //   children: [
+  //     {
+  //       key: "2-1",
+  //       label: "3rd menu item",
+  //     },
+  //     {
+  //       key: "2-2",
+  //       label: "4th menu item",
+  //     },
+  //   ],
+  // },
+];
+
 const Navbar = () => {
   return (
     <>
@@ -28,65 +155,20 @@ const Navbar = () => {
           </h1>
         </div>
         <Menu theme="dark" mode="vertical" className={styles.menu_items}>
-          <Link href="/processor">
-            <items
-              style={{
-                margin: "0px 15px",
-              }}
-            >
-              CPU/Processor
-            </items>
-          </Link>
+          {/* dropdown menu */}
 
-          <Link href="/motherboard">
-            <items
-              style={{
-                margin: "0px 15px",
-              }}
-            >
-              Motherboard
-            </items>
-          </Link>
-
-          <Link href="/ram">
-            <items
-              style={{
-                margin: "0px 15px",
-              }}
-            >
-              RAM
-            </items>
-          </Link>
-
-          <Link href="/powerSupply">
-            <items
-              style={{
-                margin: "0px 15px",
-              }}
-            >
-              Power Supply Unit
-            </items>
-          </Link>
-
-          <Link href="/storageDevice">
-            <items
-              style={{
-                margin: "0px 15px",
-              }}
-            >
-              Storage Device
-            </items>
-          </Link>
-
-          <Link href="/monitor">
-            <items
-              style={{
-                margin: "0px 15px",
-              }}
-            >
-              Monitor
-            </items>
-          </Link>
+          <Dropdown
+            menu={{
+              items,
+            }}
+          >
+            <a onClick={(e) => e.preventDefault()}>
+              <Space>
+                Category
+                <DownOutlined />
+              </Space>
+            </a>
+          </Dropdown>
 
           <Link href="/others">
             <items
@@ -97,6 +179,19 @@ const Navbar = () => {
               Others
             </items>
           </Link>
+
+          <Link href="/auth/login">
+            <items
+              style={{
+                margin: "0px 15px",
+                padding: "5px 8px",
+                backgroundColor: "green",
+              }}
+            >
+              Login
+            </items>
+          </Link>
+
           <Link href="/pcBuilder">
             <items
               style={{

@@ -1,6 +1,6 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetProcessorQuery } from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 const style = {
@@ -8,8 +8,11 @@ const style = {
 };
 
 const Processor = () => {
-  const { data: processors, isError, isLoading } = useGetProcessorQuery();
-
+  const {
+    data: processors,
+    isError,
+    isLoading,
+  } = useGetProductQuery("processor");
 
   // decide what to render
   let content = null;

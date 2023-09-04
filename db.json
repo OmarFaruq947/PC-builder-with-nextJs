@@ -1,11 +1,11 @@
 {
-  "processor": [
+  "accessory": [
     {
       "id": 1,
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-3200g/ryzen-3-3200g-3-500x500.jpg",
       "product_name": "AMD Ryzen 3 3200G Processor with Radeon RX Vega 8 Graphics",
-      "category": "cpu/processor",
-      "quantity": 30,
+      "category": "processor",
+      "quantity": 0,
       "price": 6702,
       "description": "The AMD Ryzen 3 3200G Processor is built-in intelligence featuring 4 processor cores, 4 threads, and an astonishingly efficient 65W TDP. In this processor, It stands with 3.6GHz Base Clock, 4.0GHz Max Boost Clock, 2MB L2 Cache, 4MB L3 Cache with AM4 Package and TSMC 12nm FinFET CMOS. This processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. The Ryzen 3 3200G provides DDR4 2933MHz memory with 2 memory channels. This processor also has 03 years warranty (No Warranty for Fan or Cooler).",
       "key_Features": [
@@ -31,8 +31,8 @@
       "id": 2,
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/amd-ryzen-5-5500/amd-ryzen-5-5500-01-500x500.jpg",
       "product_name": "AMD Ryzen 5 5500 Processor",
-      "category": "cpu/processor",
-      "quantity": 25,
+      "category": "processor",
+      "quantity": 0,
       "price": 7884,
       "description": "AMD Ryzen 5 5500 Processor is 6 processor cores, 12 threads, and an astonishingly efficient 45-65W TDP. This processor, It stands with 3.9GHz Base Clock, 4.4GHz Max Boost Clock, 3MB L2 Cache, 16MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. The AMD Ryzen 5 5600G Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology. A fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance.  MD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also has AMD  Core Architecture with the fastest cores in the world for PC gamers. The architecture represents the most comprehensive design overhaul of the  era. Over 20 major changes include wider and more flexible execution resources; significantly more load/store bandwidth to feed execution; and a streamlined front-end to get more threads in flight and do it faster. The  architecture can extract an average of 19% additional performance from every MHz of frequency relative to the previous generation2. This is a historically",
       "key_Features": [
@@ -58,7 +58,7 @@
       "id": 3,
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i3-10105/core-i3-10105-001-500x500.jpg",
       "product_name": "Intel Core i3 10105 10th Gen Comet Lake Processor",
-      "category": "cpu/processor",
+      "category": "processor",
       "quantity": 17,
       "price": 1581,
       "description": "The Intel Core i3 10105 10th Gen Processor comes with 3.70 GHz up to 4.40 GHz clock speed, 4 cores and 8 threads. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 400 and 500 series motherboard.",
@@ -85,7 +85,7 @@
       "id": 4,
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-500x500.jpg",
       "product_name": "Intel 10th Gen Core i3 10100 Processor",
-      "category": "cpu/processor",
+      "category": "processor",
       "quantity": 10,
       "price": 1746,
       "description": "This processor comes with a new breed that come with an enabled integrated GPU, so a separate graphics card is not required for its functionality. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup",
@@ -112,7 +112,7 @@
       "id": 5,
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100f/i3-12100f-500x500.jpg",
       "product_name": "Intel Core i3-12100F 12th Gen Alder Lake Processor",
-      "category": "cpu/processor",
+      "category": "processor",
       "quantity": 30,
       "price": 7766,
       "description": "The latest Intel 12th Gen Core i3-12100F Processor comes with 4 cores and 8 threads. It has a base frequency of 3.30 GHz and a maximum boost frequency of up to 4.30 GHz. The i3-12100F Alder Lake Processor comes with a 12 MB Intel Smart Cache and it has a 5 MB L2 cache. It features a Processor Base Power of 58W and a maximum turbo power of 89W. The Intel Core i3-12100F comes with 2 memory channels and it supports 128GB of maximum memory. The maximum bandwidth is 76.8 GB/s.",
@@ -138,7 +138,7 @@
       "id": 6,
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-500x500.jpg",
       "product_name": "AMD Ryzen 3 4100 Processor",
-      "category": "cpu/processor",
+      "category": "processor",
       "quantity": 6,
       "price": 2089,
       "description": "",
@@ -159,10 +159,7 @@
         "es this a good apu for low price Best game",
         "Waiting for arrival! This is a very budget friendly processor for gamers!"
       ]
-    }
-  ],
-
-  "motherboard": [
+    },
     {
       "id": 7,
       "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-h610m-K-d4/prime-h610m-K-d4-02-500x500.jpg",
@@ -283,10 +280,7 @@
         "This is a very good Processor I really liked It. Recommended",
         ""
       ]
-    }
-  ],
-
-  "ram": [
+    },
     {
       "id": 12,
       "image": "https://www.startech.com.bd/image/cache/catalog/RAM/VENG_LPX_BLK_01-500x500.png",
@@ -413,10 +407,7 @@
         "es this a good apu for low price Best game",
         "This is a very good Processor I really liked It. Recommended"
       ]
-    }
-  ],
-
-  "powerSupply": [
+    },
     {
       "id": 17,
       "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/cooler-master/xg850-plus-platinum/xg850-plus-platinum-01-500x500.webp",
@@ -584,10 +575,7 @@
         "es this a good apu for low price Best game",
         "This is a very good Processor I really liked It. Recommended"
       ]
-    }
-  ],
-
-  "storage": [
+    },
     {
       "id": 24,
       "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/t7-blue/t7-blue-01-500x500.webp ",
@@ -748,10 +736,7 @@
         "es this a good apu for low price Best game",
         "This is a very good Processor I really liked It. Recommended"
       ]
-    }
-  ],
-
-  "monitor": [
+    },
     {
       "id": 31,
       "image": "https://www.startech.com.bd/image/cache/catalog/monitor/dell/d2020h/d2020h-01-500x500.webp",
@@ -912,10 +897,7 @@
         "es this a good apu for low price Best game",
         "This is a very good Processor I really liked It. Recommended"
       ]
-    }
-  ],
-
-  "others": [
+    },
     {
       "id": 37,
       "image": "https://www.startech.com.bd/image/cache/catalog/earphone/oneplus/be02t/be02t-500x500.jpg",

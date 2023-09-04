@@ -4,44 +4,14 @@ export const pcApi = createApi({
   reducerPath: "pc",
   baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:5000" }),
   endpoints: (builder) => ({
-    getProcessor: builder.query({
-      query: () => `/processor`,
+    getProduct: builder.query({
+      query: (category) => `/accessory?category=${category}`,
     }),
 
-    getMotherboard: builder.query({
-      query: () => `/motherboard`,
+    getProductById: builder.query({
+      query: (id) => `/accessory?id=${id}`,
     }),
-
-    getRam: builder.query({
-      query: () => `/ram`,
-    }),
-    getPowerSupply: builder.query({
-      query: () => `/powerSupply`,
-    }),
-    getStorage: builder.query({
-      query: () => `/storage`,
-    }),
-
-    getMonitor: builder.query({
-      query: () => `/monitor`,
-    }),
-    getOthers: builder.query({
-      query: () => `/others`,
-    }),
-
-    // getNewsById: builder.query({
-    //   query: (id) => `/news/${id.newsDetailPage}`,
-    // }),
   }),
 });
 
-export const {
-  useGetMonitorQuery,
-  useGetMotherboardQuery,
-  useGetOthersQuery,
-  useGetPowerSupplyQuery,
-  useGetProcessorQuery,
-  useGetRamQuery,
-  useGetStorageQuery,
-  use,
-} = pcApi;
+export const { useGetProductQuery, useGetProductByIdQuery } = pcApi;

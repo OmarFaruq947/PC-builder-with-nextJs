@@ -1,11 +1,11 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetRamQuery } from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
 const Ram = () => {
-  const { data: allRams, isError, isLoading } = useGetRamQuery();
+  const { data: allRams, isError, isLoading } = useGetProductQuery("RAM");
 
   // decide what to render
   let content = null;

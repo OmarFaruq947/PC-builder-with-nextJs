@@ -1,11 +1,18 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetMotherboardQuery } from "@/redux/api/apiSlice";
+import {
+  useGetMotherboardQuery,
+  useGetProductQuery,
+} from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
 const Motherboard = () => {
-  const { data: motherboards, isError, isLoading } = useGetMotherboardQuery();
+  const {
+    data: motherboards,
+    isError,
+    isLoading,
+  } = useGetProductQuery("motherboard");
 
   // decide what to render
   let content = null;

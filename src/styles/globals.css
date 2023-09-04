@@ -3,3 +3,27 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:where(
+    .css-dev-only-do-not-override-12jzuas
+  ).ant-divider-horizontal.ant-divider-with-text::after {
+  border-block-start-color: #001529 !important;
+}
+
+.soldOut {
+  color: red;
+  font-weight: bold;
+}
+
+.stock {
+  color: green;
+  font-weight: bold;
+}
+
+.addToCartButton {
+  background-color: #eee;
+  padding: 8px 30px;
+  color: #001529;
+  font-weight: bold;
+  align-items: center;
+}

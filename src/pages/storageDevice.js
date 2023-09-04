@@ -1,11 +1,15 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetStorageQuery } from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
 const StorageDevice = () => {
-  const { data: storages, isError, isLoading } = useGetStorageQuery();
+  const {
+    data: storages,
+    isError,
+    isLoading,
+  } = useGetProductQuery("storageDevice");
 
   // decide what to render
   let content = null;

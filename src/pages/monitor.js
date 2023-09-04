@@ -1,11 +1,11 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetMonitorQuery } from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
 const Monitor = () => {
-  const { data: monitors, isError, isLoading } = useGetMonitorQuery();
+  const { data: monitors, isError, isLoading } = useGetProductQuery("Monitor");
 
   // decide what to render
   let content = null;

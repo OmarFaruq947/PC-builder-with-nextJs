@@ -1,11 +1,18 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetPowerSupplyQuery } from "@/redux/api/apiSlice";
+import {
+  useGetPowerSupplyQuery,
+  useGetProductQuery,
+} from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
 const powerSupply = () => {
-  const { data: allPowerSupply, isError, isLoading } = useGetPowerSupplyQuery();
+  const {
+    data: allPowerSupply,
+    isError,
+    isLoading,
+  } = useGetProductQuery("PowerSupply");
 
   // decide what to render
   let content = null;
