@@ -5,6 +5,9 @@ const { Header } = Layout;
 
 import { DownOutlined } from "@ant-design/icons";
 import { Dropdown, Space } from "antd";
+
+import { signOut, useSession } from "next-auth/react";
+
 const items = [
   {
     key: "1",
@@ -131,6 +134,8 @@ const items = [
 ];
 
 const Navbar = () => {
+  const { data: session } = useSession();
+  console.log("session", session);
   return (
     <>
       <Header
@@ -150,7 +155,7 @@ const Navbar = () => {
                 borderRadius: "3px",
               }}
             >
-              PC
+              {session?.user ? <span>PC | {session?.user?.email}</span> : "PC"}
             </Link>
           </h1>
         </div>
@@ -170,33 +175,47 @@ const Navbar = () => {
             </a>
           </Dropdown>
 
-          <Link href="/others">
+          <Link href="/https://omarfaruqmebd.netlify.app/" target="_blank">
             <items
               style={{
                 margin: "0px 15px",
               }}
             >
-              Others
+              Developers
             </items>
           </Link>
 
-          <Link href="/auth/login">
-            <items
-              style={{
-                margin: "0px 15px",
-                padding: "5px 8px",
-                backgroundColor: "green",
-              }}
-            >
-              Login
-            </items>
-          </Link>
+          {session?.user ? (
+            <Link href="" onClick={() => signOut()}>
+              <items
+                style={{
+                  margin: "0px 15px",
+                  padding: "5px 8px",
+                  backgroundColor: "red",
+                }}
+              >
+                Sign out
+              </items>
+            </Link>
+          ) : (
+            <Link href="/login">
+              <items
+                style={{
+                  margin: "0px 15px",
+                  padding: "5px 8px",
+                  backgroundColor: "green",
+                }}
+              >
+                Login
+              </items>
+            </Link>
+          )}
 
           <Link href="/pcBuilder">
             <items
               style={{
                 padding: "5px 8px",
-                backgroundColor: "red",
+                backgroundColor: "#FF9D08",
               }}
             >
               Pc Builder
