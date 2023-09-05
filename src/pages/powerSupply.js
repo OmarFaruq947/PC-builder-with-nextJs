@@ -1,13 +1,10 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
-import {
-  useGetPowerSupplyQuery,
-  useGetProductQuery,
-} from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
-const powerSupply = () => {
+const PowerSupply = () => {
   const {
     data: allPowerSupply,
     isError,
@@ -56,8 +53,8 @@ const powerSupply = () => {
   );
 };
 
-export default powerSupply;
+export default PowerSupply;
 
-powerSupply.getLayout = function getLayout(page) {
+PowerSupply.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };

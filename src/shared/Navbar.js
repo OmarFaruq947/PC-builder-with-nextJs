@@ -175,7 +175,7 @@ const Navbar = () => {
             </a>
           </Dropdown>
 
-          <Link href="/https://omarfaruqmebd.netlify.app/" target="_blank">
+          <a href="/https://omarfaruqmebd.netlify.app/" target="_blank">
             <items
               style={{
                 margin: "0px 15px",
@@ -183,7 +183,7 @@ const Navbar = () => {
             >
               Developers
             </items>
-          </Link>
+          </a>
 
           {session?.user ? (
             <Link href="" onClick={() => signOut()}>
