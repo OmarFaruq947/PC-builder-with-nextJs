@@ -33,7 +33,7 @@ const StorageDevice = () => {
   }
   if (!isLoading && !isError && storages?.length > 0) {
     content = storages.map((storage) => (
-      <ProductCard key={storage.id} product={storage} />
+      <ProductCard key={storage._id} product={storage} />
     ));
   }
 

@@ -1,7 +1,6 @@
 import ProductCard from "@/components/ProductCard/ProductCard";
 import {
-  useGetPowerSupplyQuery,
-  useGetProductQuery,
+    useGetProductQuery
 } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
@@ -35,7 +34,7 @@ const PowerSupply = () => {
   }
   if (!isLoading && !isError && Powers?.length > 0) {
     content = Powers.map((Power) => (
-      <ProductCard key={Power.id} product={Power} />
+      <ProductCard key={Power._id} product={Power} />
     ));
   }
 

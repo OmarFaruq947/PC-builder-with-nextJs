@@ -1,6 +1,6 @@
-import Head from "next/head";
 import RootLayout from "@/components/Layouts/RootLayout";
 import Banner from "@/components/UI/Banner";
+import Head from "next/head";
 
 const HomePage = () => {
   return (
@@ -19,6 +19,16 @@ const HomePage = () => {
   );
 };
 export default HomePage;
+
+// export const getStaticProps = async () => {
+//   if (typeof window === "undefined") {
+//     return {
+//       props: {
+//         products: [],
+//       },
+//     };
+//   }
+// };
 
 HomePage.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;

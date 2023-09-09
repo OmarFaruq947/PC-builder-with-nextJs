@@ -135,7 +135,7 @@ const items = [
 
 const Navbar = () => {
   const { data: session } = useSession();
-  console.log("session", session);
+ 
   return (
     <>
       <Header
@@ -175,7 +175,7 @@ const Navbar = () => {
             </a>
           </Dropdown>
 
-          <a href="/https://omarfaruqmebd.netlify.app/" target="_blank">
+          <a href="https://omarfaruqmebd.netlify.app/" target="_blank">
             <items
               style={{
                 margin: "0px 15px",

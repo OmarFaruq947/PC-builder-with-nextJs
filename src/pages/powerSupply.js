@@ -33,7 +33,7 @@ const PowerSupply = () => {
   }
   if (!isLoading && !isError && allPowerSupply?.length > 0) {
     content = allPowerSupply.map((PowerSupply) => (
-      <ProductCard key={PowerSupply.id} product={PowerSupply} />
+      <ProductCard key={PowerSupply._id} product={PowerSupply} />
     ));
   }
 

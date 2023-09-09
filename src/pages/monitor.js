@@ -5,7 +5,12 @@ import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
 const Monitor = () => {
-  const { data: monitors, isError, isLoading } = useGetProductQuery("Monitor");
+  
+  const {
+    data: monitors,
+    isError,
+    isLoading,
+  } = useGetProductQuery("Monitor");
 
   // decide what to render
   let content = null;
@@ -29,7 +34,7 @@ const Monitor = () => {
   }
   if (!isLoading && !isError && monitors?.length > 0) {
     content = monitors.map((monitor) => (
-      <ProductCard key={monitor.id} product={monitor} />
+      <ProductCard key={monitor._id} product={monitor} />
     ));
   }
   return (
@@ -42,7 +47,9 @@ const Monitor = () => {
           lg: 32,
         }}
       >
-        {content}
+
+       {content}
+        
       </Row>
     </>
   );

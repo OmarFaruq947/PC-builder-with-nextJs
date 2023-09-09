@@ -28,7 +28,7 @@ const Ram = () => {
     content = <h1> Data not founded ! </h1>;
   }
   if (!isLoading && !isError && allRams?.length > 0) {
-    content = allRams.map((ram) => <ProductCard key={ram.id} product={ram} />);
+    content = allRams.map((ram) => <ProductCard key={ram._id} product={ram} />);
   }
 
   return (

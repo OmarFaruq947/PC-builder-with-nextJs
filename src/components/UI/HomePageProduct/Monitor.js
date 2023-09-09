@@ -28,7 +28,7 @@ const Monitor = () => {
   }
   if (!isLoading && !isError && Monitors?.length > 0) {
     content = Monitors.map((Monitor) => (
-      <ProductCard key={Monitor.id} product={Monitor} />
+      <ProductCard key={Monitor._id} product={Monitor} />
     ));
   }
 

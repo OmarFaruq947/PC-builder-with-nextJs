@@ -31,7 +31,7 @@ const ProductDetails = () => {
                   >
                     Image
                   </Divider>
-                  <img src={product.image} key={product.id} />
+                  <img src={product.image} key={product._id} />
                   <Divider
                     orientation="left"
                     orientationMargin="0"

@@ -1,5 +1,5 @@
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetOthersQuery, useGetProductQuery } from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
@@ -28,7 +28,7 @@ const Oaters = () => {
   }
   if (!isLoading && !isError && Oaters?.length > 0) {
     content = Oaters.map((Oater) => (
-      <ProductCard key={Oater.id} product={Oater} />
+      <ProductCard key={Oater._id} product={Oater} />
     ));
   }
 

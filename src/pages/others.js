@@ -1,6 +1,6 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetOthersQuery, useGetProductQuery } from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
@@ -34,7 +34,7 @@ const Others = () => {
   }
   if (!isLoading && !isError && distProducts?.length > 0) {
     content = distProducts.map((distProduct) => (
-      <ProductCard key={distProduct.id} product={distProduct} />
+      <ProductCard key={distProduct._id} product={distProduct} />
     ));
   }
   return (

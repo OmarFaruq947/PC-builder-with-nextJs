@@ -1,5 +1,5 @@
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetProductQuery, useGetStorageQuery } from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
@@ -32,7 +32,7 @@ const Storage = () => {
   }
   if (!isLoading && !isError && Storages?.length > 0) {
     content = Storages.map((Storage) => (
-      <ProductCard key={Storage.id} product={Storage} />
+      <ProductCard key={Storage._id} product={Storage} />
     ));
   }
 

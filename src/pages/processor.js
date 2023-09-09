@@ -36,7 +36,7 @@ const Processor = () => {
   }
   if (!isLoading && !isError && processors?.length > 0) {
     content = processors.map((processor) => (
-      <ProductCard key={processor.id} product={processor} />
+      <ProductCard key={processor._id} product={processor} />
     ));
   }
 

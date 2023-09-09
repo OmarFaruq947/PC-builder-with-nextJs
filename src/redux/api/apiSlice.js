@@ -2,10 +2,11 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export const pcApi = createApi({
   reducerPath: "pc",
-  baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:5000" }),
+  baseQuery: fetchBaseQuery({ baseUrl: "https://pc-builder-server-oaoc.onrender.com" }),
   endpoints: (builder) => ({
     getProduct: builder.query({
-      query: (category) => `/accessory?category=${category}`,
+     
+      query: (category) => `/accessoryByCategory?category=${category}`,
     }),
 
     getProductById: builder.query({

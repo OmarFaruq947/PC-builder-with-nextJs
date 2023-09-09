@@ -1,8 +1,7 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import ProductCard from "@/components/ProductCard/ProductCard";
 import {
-  useGetMotherboardQuery,
-  useGetProductQuery,
+    useGetProductQuery
 } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
@@ -36,7 +35,7 @@ const Motherboard = () => {
   }
   if (!isLoading && !isError && motherboards?.length > 0) {
     content = motherboards.map((motherboard) => (
-      <ProductCard key={motherboard.id} product={motherboard} />
+      <ProductCard key={motherboard._id} product={motherboard} />
     ));
   }
   return (

@@ -1,5 +1,5 @@
 import ProductCard from "@/components/ProductCard/ProductCard";
-import { useGetMotherboardQuery, useGetProductQuery } from "@/redux/api/apiSlice";
+import { useGetProductQuery } from "@/redux/api/apiSlice";
 import CardLoader from "@/shared/Loader/CardLoader";
 import { Row } from "antd";
 
@@ -32,7 +32,7 @@ const MotherboardShow = () => {
   }
   if (!isLoading && !isError && motherboards?.length > 0) {
     content = motherboards.map((motherboard) => (
-      <ProductCard key={motherboard.id} product={motherboard} />
+      <ProductCard key={motherboard._id} product={motherboard} />
     ));
   }
 
