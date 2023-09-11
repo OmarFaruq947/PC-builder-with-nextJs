@@ -5,9 +5,9 @@ import { useRouter } from "next/router";
 const NotFoundPage = () => {
   const router = useRouter();
 
-  // setTimeout(() => {
-  //   router.push("/");
-  // }, 3000);
+  setTimeout(() => {
+    router.push("/");
+  }, 3000);
 
   return (
     <div style={{ textAlign: "center" }}>

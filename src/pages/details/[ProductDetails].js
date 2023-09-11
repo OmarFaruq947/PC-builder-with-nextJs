@@ -12,14 +12,17 @@ const ProductDetails = () => {
   };
   const router = useRouter();
 
-  const { data, isLoading, isError } = useGetProductByIdQuery(
+  const { data} = useGetProductByIdQuery(
     router.query.ProductDetails
   );
 
+console.log("data",typeof(data)
+
+);
+
+
   return (
-    <div>
-      {data?.map((product) => (
-        <>
+    <>
           <div className={styles.container}>
             <div className={styles.content}>
               <div className={styles.col}>
@@ -31,7 +34,7 @@ const ProductDetails = () => {
                   >
                     Image
                   </Divider>
-                  <img src={product.image} key={product._id} />
+                  <img  src={data?.image} key={data?._id} />
                   <Divider
                     orientation="left"
                     orientationMargin="0"
@@ -39,7 +42,7 @@ const ProductDetails = () => {
                   >
                     Product Name
                   </Divider>
-                  <h1>{product.product_name}</h1>
+                  <h1>{data?.product_name}</h1>
                   <Divider
                     orientation="left"
                     orientationMargin="0"
@@ -47,7 +50,7 @@ const ProductDetails = () => {
                   >
                     Description
                   </Divider>
-                  <p>{product.description}</p>
+                  <p>{data?.description}</p>
 
                   <Divider
                     orientation="left"
@@ -56,12 +59,12 @@ const ProductDetails = () => {
                   >
                     Others Information
                   </Divider>
-                  <p>Category: {product.category}</p>
-                  <p>Quantity: {product.quantity}</p>
-                  <p>Price: {product.price}</p>
-                  <p>average Rating: {product.average_rating}</p>
+                  <p>Category: {data?.category}</p>
+                  <p>Quantity: {data?.quantity}</p>
+                  <p>Price: {data?.price}</p>
+                  <p>average Rating: {data?.average_rating}</p>
                   <div className="">
-                    <Rating rating={product.rating} />
+                    <Rating rating={data?.rating} />
                   </div>
 
                   <Divider
@@ -73,7 +76,7 @@ const ProductDetails = () => {
                   </Divider>
                   <div className="">
                     <ol>
-                      {product?.key_Features?.map((features, index) => (
+                      {data?.key_Features?.map((features, index) => (
                         <li key={index}>{features} </li>
                       ))}
                     </ol>
@@ -88,7 +91,7 @@ const ProductDetails = () => {
                   </Divider>
                   <div className="">
                     <ol>
-                      {product?.reviews?.map((review, index) => (
+                      {data?.reviews?.map((review, index) => (
                         <li key={index}>{review}</li>
                       ))}
                     </ol>
@@ -97,9 +100,8 @@ const ProductDetails = () => {
               </div>
             </div>
           </div>
-        </>
-      ))}
-    </div>
+      
+    </>
   );
 };
 

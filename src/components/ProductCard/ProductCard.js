@@ -8,8 +8,10 @@ const ProductCard = ({ product }) => {
     padding: "5px 0",
   };
 
-  const { image, product_name, category, price, quantity, rating, id } =
+  const { image, product_name, category, price, quantity, rating, _id } =
     product;
+
+    console.log(_id);
   return (
     <>
       <Col className="gutter-row" span={6}>
@@ -33,7 +35,7 @@ const ProductCard = ({ product }) => {
             </div>
             <Rating rating={rating} />
             <br />
-            <Link href={`/details/${id}`} className="addToCartButton">
+            <Link href={`/details/${_id}`} className="addToCartButton">
               Add to curt ? show details ⇾
             </Link>
           </Card>

@@ -21,6 +21,7 @@ export const authOptions = {
   // this code for redirect to login page
   pages: {
     signIn: "/login",
+    
   },
 };
 

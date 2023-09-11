@@ -8,9 +8,9 @@ export const pcApi = createApi({
      
       query: (category) => `/accessoryByCategory?category=${category}`,
     }),
-
+   
     getProductById: builder.query({
-      query: (id) => `/accessory?id=${id}`,
+      query: (id) => `/accessory/${id}`,
     }),
   }),
 });
